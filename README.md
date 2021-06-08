@@ -1,29 +1,29 @@
 ## Jiin Nam
 Hi there! 👋 <br>
-**Major** : Mechanical design & robot engineering (Master Degree)
 
-### Interests👀
+### 📚 Major
+- Mechanical design & robot engineering (Master Degree)
+- Mechanical system design engineering (Bachelor Degree)
+
+### 👀 Interests
 - Deep Learinig
 - Computer Vision
 - Robotics
 
-### Projects🗃
-**BoostCamp stage 4 : Unnamed OCR**<br>
-2021. 06. ~
-<br>
-**A Neural Network based Fault Detection and Classification System Using Acoustic Measurement**<br>
-2020. 01. ~ 2020. 06.
-<br>
-**Moving object assembling system with multi-axis Delta robot**<br>
-2017. 01. ~ 2017. 12.
-<br>
+### 🗃 Projects
+- **BoostCamp stage 4 : Unnamed OCR**<br>2021. 06. ~
 
-### Activities 🙌
-**Naver Boostcamp AI Tech**
-2021. 01. ~ 2021. 06.
-<br>
+- **A Neural Network based Fault Detection and Classification System Using Acoustic Measurement** <br>2020. 01. ~ 2020. 06.
 
-### Skils 👍
+- **Moving object assembling system with multi-axis Delta robot** <br>2017. 01. ~ 2017. 12.
+
+
+### 🙌 Activities 
+- **Naver Boostcamp AI Tech** <br>2021. 01. ~ 2021. 06.
+
+
+
+### 👍 Skils 
 - Python
 - C++
 - C# (little bit)
