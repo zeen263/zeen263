@@ -1,6 +1,6 @@
 ## Jiin Nam
-Hi there! 👋
-Major : Mechanical design & robot engineering (Master Degree)
+Hi there! 👋 <br>
+**Major** : Mechanical design & robot engineering (Master Degree)
 
 ### Interests👀
 - Deep Learinig
@@ -10,23 +10,23 @@ Major : Mechanical design & robot engineering (Master Degree)
 ### Projects🗃
 **BoostCamp stage 4 : Unnamed OCR**
 2021. 06. ~
-
+<br>
 **A Neural Network based Fault Detection and Classification System Using Acoustic Measurement**
 2020. 01. ~ 2020. 06.
-
+<br>
 **Moving object assembling system with multi-axis Delta robot**
 2017. 01. ~ 2017. 12.
-
+<br><br>
 
 ### Activities 🙌
 **Naver Boostcamp AI Tech**
 2021. 01. ~ 2021. 06.
-
+<br><br>
 
 ### Skils 👍
-Python
-C++
-C# (little bit)
+- Python
+- C++
+- C# (little bit)
 
 <!--
 **zeen263/zeen263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
