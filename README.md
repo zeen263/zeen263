@@ -25,7 +25,7 @@ Hi there! 👋 <br>
 
 ### 👍 Skils 
 - Python
-- C++
+- C
 - C# (little bit)
 
 <!--
