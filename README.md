@@ -11,7 +11,7 @@ Hi there! 👋 <br>
 - Robotics
 
 ### 🗃 Projects
-- **Naver Boostcamp AI Tech stage 4 : Unnamed OCR Equation Reader**<br>2021. 06. ~
+- **Naver Boostcamp AI Tech stage 4 : Unnamed OCR Equation Reader**<br>2021. 05. ~ 2021. 06.
 
 - **A Neural Network based Fault Detection and Classification System Using Acoustic Measurement** <br>2020. 01. ~ 2020. 06.
 
