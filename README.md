@@ -8,9 +8,9 @@ Hi there! 👋 <br>
 <br>
 
 ### 👀 Interests
-- Deep Learinig
-- Computer Vision
-- Robotics
+- `Deep Learinig`
+- `Computer Vision`
+- `Robotics`
  
 <br>
 
@@ -33,9 +33,9 @@ Hi there! 👋 <br>
 
 
 ### 👍 Skils 
-- Python
-- C
-- C#
+- `Python`
+- `C`
+- `C#`
  
 <br>
 
