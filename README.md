@@ -4,14 +4,14 @@ Hi there! 👋 <br>
 ### 📚 Major
 - Mechanical design & robot engineering (Master Degree)
 - Mechanical system design engineering (Bachelor Degree)
-- 
+
 <br>
 
 ### 👀 Interests
 - Deep Learinig
 - Computer Vision
 - Robotics
-- 
+ 
 <br>
 
 ### 🗃 Projects
@@ -28,7 +28,7 @@ Hi there! 👋 <br>
 
 ### 🙌 Activities 
 - **Naver Boostcamp AI Tech**(full time) <br>2021. 01. ~ 2021. 06.
-- 
+ 
 <br>
 
 
@@ -36,7 +36,7 @@ Hi there! 👋 <br>
 - Python
 - C
 - C#
-- 
+ 
 <br>
 
 <!--
