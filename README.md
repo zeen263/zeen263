@@ -27,7 +27,7 @@ Hi there! 👋 <br>
 <br>
 
 ### 🙌 Activities 
-- **Naver Boostcamp AI Tech**(full time) <br>2021. 01. ~ 2021. 06.
+- **Naver Boostcamp AI Tech** (full time) <br>2021. 01. ~ 2021. 06.
  
 <br>
 
