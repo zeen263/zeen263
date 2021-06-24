@@ -12,6 +12,7 @@ Hi there! 👋 <br>
 
 ### 🗃 Projects
 - **Naver Boostcamp AI Tech stage 4 : Unnamed OCR Equation Reader**<br>2021. 05. ~ 2021. 06.
+  https://www.notion.so/boostcampaitech/OCR-01-Hello-LaTeX-OCR-A-to-Z-1d696dd9e2634d92b965f5f92ef9c932
 
 - **A Neural Network based Fault Detection and Classification System Using Acoustic Measurement** <br>2020. 01. ~ 2020. 06.
 
