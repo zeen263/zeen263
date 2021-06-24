@@ -1,20 +1,20 @@
 ## Jiin Nam
 Hi there! 👋 <br>
 
---
+---
 
 ### 📚 Major
 - Mechanical design & robot engineering (Master Degree)
 - Mechanical system design engineering (Bachelor Degree)
 
---
+---
 
 ### 👀 Interests
 - `Deep Learinig`
 - `Computer Vision`
 - `Robotics`
  
---
+---
 
 ### 🗃 Projects
 - **Naver Boostcamp AI Tech stage 4 : Unnamed OCR Equation Reader**<br>2021. 05. ~ 2021. 06.<br>
