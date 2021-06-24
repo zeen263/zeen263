@@ -17,7 +17,8 @@ Hi there! 👋 <br>
 - **A Neural Network based Fault Detection and Classification System Using Acoustic Measurement** <br>2020. 01. ~ 2020. 06.<br>
   DOI : 10.7735/ksmte.2020.29.3.210
 
-- **Moving object assembling system with multi-axis Delta robot** <br>2017. 01. ~ 2017. 12.
+- **Moving object assembling system with multi-axis Delta robot** <br>2017. 01. ~ 2017. 12.<br>
+  Presented on KES 2017, CES 2018
 
 
 ### 🙌 Activities 
@@ -28,7 +29,7 @@ Hi there! 👋 <br>
 ### 👍 Skils 
 - Python
 - C
-- C# (little bit)
+- C#
 
 <!--
 **zeen263/zeen263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
