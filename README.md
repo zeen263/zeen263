@@ -36,8 +36,7 @@ Hi there! 👋 <br>
 
 ### 👍 Skils 
 - `Python`
-- `C`
-- `C#`
+
  
 ---
 
